@@ -6,22 +6,23 @@ using System.Threading.Tasks;
 
 namespace POO_UN03_01
 {
-    public class Cliente
-    {
+    public class Cliente{
+        public const decimal RENDA_MINIMA = 2500;
+        public const decimal VALOR_MINIMO = 5000;
         public Cliente(int codigo, string nome, decimal rendamensal){
            Codigo = codigo;
            Nome = nome;
            RendaMensal = rendamensal;
-           ClientePremium = RendaMensal >= 1200;
+           ClientePremium = RendaMensal >= RENDA_MINIMA;
         }
 
         public int Codigo{get; private set;}
         public string Nome{get; set;}
         public decimal RendaMensal{get;set;}
         public bool ClientePremium{get;set;}
-
+        public bool ClienteMaster { get; set; }
         public bool PromoverCliente(decimal valor){
-            if (valor >= 5000){
+            if (valor >= VALOR_MINIMO){
                 ClientePremium = true;
                 return true;
             }
