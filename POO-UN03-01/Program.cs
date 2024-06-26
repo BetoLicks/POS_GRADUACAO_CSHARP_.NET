@@ -6,6 +6,7 @@ Cliente cliente2 = new Cliente(2,"Maria",6000, emails);
 
 Console.WriteLine("Cliente1: " + cliente1.Nome + cliente1.PromoverCliente(6000));
 Console.WriteLine("Cliente2: " + cliente2.Nome);
+Console.WriteLine("Lista de emails " + cliente1.ListaEmails());
 Console.ReadKey();
 
 
