@@ -1,12 +1,10 @@
 ﻿using POO_UN03_01;
 
-Cliente cliente1 = new Cliente();
-cliente1.codigo = 1;
-cliente1.nome = "Delson Reis";
-cliente1.rendaMensal = 2500;
-cliente1.clientePremium = false;
+Cliente cliente1 = new Cliente(1, "João", 1200);
+Cliente cliente2 = new Cliente(2,"Maria",6000); 
 
-Console.WriteLine("Cliente1: " + cliente1.nome);
+Console.WriteLine("Cliente1: " + cliente1.Nome + cliente1.PromoverCliente(6000));
+Console.WriteLine("Cliente2: " + cliente2.Nome);
 Console.ReadKey();
 
 
