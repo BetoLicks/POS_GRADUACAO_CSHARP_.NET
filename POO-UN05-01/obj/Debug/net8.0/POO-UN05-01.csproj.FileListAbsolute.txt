@@ -1,0 +1,15 @@
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.GeneratedMSBuildEditorConfig.editorconfig
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.AssemblyInfoInputs.cache
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.AssemblyInfo.cs
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.csproj.CoreCompileInputs.cache
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.sourcelink.json
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/bin/Debug/net8.0/POO-UN05-01
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/bin/Debug/net8.0/POO-UN05-01.deps.json
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/bin/Debug/net8.0/POO-UN05-01.runtimeconfig.json
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/bin/Debug/net8.0/POO-UN05-01.dll
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/bin/Debug/net8.0/POO-UN05-01.pdb
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.dll
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/refint/POO-UN05-01.dll
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.pdb
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/POO-UN05-01.genruntimeconfig.cache
+/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/POO-UN05-01/obj/Debug/net8.0/ref/POO-UN05-01.dll
