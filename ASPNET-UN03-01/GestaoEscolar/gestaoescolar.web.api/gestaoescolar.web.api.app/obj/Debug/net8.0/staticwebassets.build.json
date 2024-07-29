@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Bib/rAb4fkLd3UqVE4J3seDs+sXVhL/RIv/R63xpa0=",
+  "Source": "gestaoescolar.web.api.app",
+  "BasePath": "_content/gestaoescolar.web.api.app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/gestaoescolar.web.api.app.props" />
+</Project>

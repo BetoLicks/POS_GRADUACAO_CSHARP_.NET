@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GstaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj": {}
+    "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GestaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj": {}
   },
   "projects": {
-    "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GstaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj": {
+    "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GestaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GstaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj",
+        "projectUniqueName": "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GestaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj",
         "projectName": "gestaoescolar.web.api.app",
-        "projectPath": "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GstaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj",
+        "projectPath": "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GestaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/gestaoescolar.web.api.app.csproj",
         "packagesPath": "/home/betolicks/.nuget/packages/",
-        "outputPath": "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GstaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/obj/",
+        "outputPath": "/home/betolicks/Documentos/POS_GRADUACAO_CSHARP_.NET/ASPNET-UN03-01/GestaoEscolar/gestaoescolar.web.api/gestaoescolar.web.api.app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/betolicks/.nuget/NuGet/NuGet.Config"
