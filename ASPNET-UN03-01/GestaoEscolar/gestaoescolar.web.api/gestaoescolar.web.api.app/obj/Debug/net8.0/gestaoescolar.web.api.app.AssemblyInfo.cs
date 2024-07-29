@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestaoescolar.web.api.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79344b4a1b7f1af46021c7e71e015de3176df991")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21835bead94ccf321e3ad9d37351c77ba6d2c97a")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestaoescolar.web.api.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestaoescolar.web.api.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
